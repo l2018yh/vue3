@@ -30,3 +30,4 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 # vue3
 # vue3-ts
 # vue3
+https://github.com/cangshudada/vite-vue3-tsx
